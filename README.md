@@ -1,4 +1,4 @@
-# E-Commerce Sales & Profitability Analysis
+# Superstore Sales & Profitability Analysis
 
 ## Project Overview
 
